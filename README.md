@@ -1,4 +1,4 @@
-# 🚑 EMS Response Times in NYC (2021)
+# EMS Response Times in NYC (2021)
 
 **Authors**: Sumana Chilakamarri & Diya Mohan  
 
